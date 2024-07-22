@@ -19,7 +19,7 @@ spec:
       - name: ingress.hosts[0].paths[0].pathType
         value: ImplementationSpecific
     repoURL: https://alexkwgit.github.io/helm-test/
-    targetRevision: 0.2.0
+    targetRevision: 0.3.0
   syncPolicy:
     automated:
       prune: true
